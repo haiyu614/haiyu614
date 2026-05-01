@@ -4,31 +4,22 @@
 
 ---
 
-<table width="100%" border="0">
-<tr valign="top">
-<td width="55%">
-
 ### 🧑‍💻 About Me
 - 🎓 Major: **Computer Science and Technology**
 - 💻 Main Direction: Backend Development & AI Agent
 - 🌱 Focus on Golang / TypeScript development
 - 📚 Love open source and keep learning every day
 
-</td>
-
-<td width="45%">
+---
 
 ### 📬 Contact
 - 🐷 GitHub: [haiyu614](https://github.com/haiyu614)
 - 🧩 Email: 806077523@qq.com
 - 🐻 Welcome to communicate and learn together ✨
 
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer" />
+<!-- 换掉波浪，换成简约渐变平滑样式，更好看 -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=50" width="100%" />
 </div>
