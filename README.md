@@ -20,6 +20,5 @@
 ---
 
 <div align="center">
-<!-- 换掉波浪，换成简约渐变平滑样式，更好看 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
 </div>
